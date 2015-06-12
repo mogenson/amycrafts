@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Michael Mogenson
-tagline:             Personal Page
+tagline:             
 url:                 http://mogenson.github.io
 paginate:            1
 baseurl:             ""
