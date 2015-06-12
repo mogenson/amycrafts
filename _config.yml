@@ -30,5 +30,5 @@ github:
   repo:              https://github.com/mogenson/mogenson.github.io
 
 pages_list:
-	About: '/about'
-	Archive: '/archive'
+  About: '/about'
+  Archive: '/archive'
