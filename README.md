@@ -1,1 +1,0 @@
-This is the GitHub repo for http://mogenson.github.io
