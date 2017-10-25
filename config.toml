@@ -13,13 +13,10 @@ publishdir = "docs"
     # Meta
     title = "Amy Crafts"
     subtitle = "A collection of crafts projects by Amy Valera"
-    author = "Amy Valera"
-    description = "Crafting portfolio for Amy Valera."
-    keywords = "craft, crafts, crafting, crochet, crocheted, sew, sewing, sewed, knit, knitting, diy, homemade"
 
     # Body background color
-    #bodybgcolor = "#f9f9f9"
-    bodybgcolor = "#b4eee3"
+    bodybgcolor = "#f9f9f9"
+    #bodybgcolor = "#b4eee3"
 
     # Preview container button text
     buttontext = "Contact Me"
