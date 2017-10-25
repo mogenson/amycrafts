@@ -1,10 +1,8 @@
 # Site settings
 baseurl = "https://mogenson.github.io/amycrafts/"
 languageCode = "en-us"
-title = "Hugrid - Grid Theme For Hugo"
+title = "Amy Crafts"
 theme = "hugrid"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
 
 contentdir = "content"
 datadir = "data"
@@ -13,20 +11,21 @@ publishdir = "docs"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    title = "Amy Crafts"
+    subtitle = "A collection of crafts projects by Amy Valera"
+    author = "Amy Valera"
+    description = "Crafting portfolio for Amy Valera."
+    keywords = "craft, crafts, crafting, crochet, crocheted, sew, sewing, sewed, knit, knitting, diy, homemade"
 
     # Body background color
-    bodybgcolor = "#f9f9f9"
+    #bodybgcolor = "#f9f9f9"
+    bodybgcolor = "#b4eee3"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "Contact Me"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Made by [Amy Valera](mailto:amyvalera@gmail.com \"Send me an email\")"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
