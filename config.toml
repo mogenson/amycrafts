@@ -22,7 +22,7 @@ publishdir = "docs"
     buttontext = "Contact Me"
 
     # Footer text
-    footertext = "Made by [Amy Valera](mailto:amyvalera@gmail.com \"Send me an email\")"
+    footertext = "Made by [Amy Valera](mailto:amyvalera@gmail.com \"Send me an email\") with a little bit of help from [Mike Mogenson](https://github.com/mogenson/amycrafts \"View Website Source\")"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']

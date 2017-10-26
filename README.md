@@ -2,4 +2,10 @@
 
 A crafts portfolio website for Amy
 
-Live version at https://mogenson.github.io/amycrafts/
+Live version at 
+
+http://www.amycrafts.com/
+
+and
+
+https://mogenson.github.com/amycrafts/
