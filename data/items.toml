@@ -3,13 +3,16 @@ title = "About Me"
 image = "images/500/amy-profile-500.jpg"
 thumb = "images/250/amy-profile-250.jpg"
 description = "This is a sentence about Amy Valera that she needs to write."
+buttontext = "Contact Me"
 url = "mailto:amyvalera@gmail.com"
 
 [[items]]
 title = "Sophie's Universe Afghan Detail"
 image = "images/500/sophiedetail_500.jpg"
 thumb = "images/250/sophiedetail_250.jpg"
-description = "Detail of flower from Sophie's Universe crochet along. Pattern can be found at: https://www.ravelry.com/patterns/library/sophies-universe-cal"
+description = "Detail of flower from Sophie's Universe crochet along."
+buttontext = "Pattern"
+url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
 title = "Craft Project 2"
