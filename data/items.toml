@@ -2,7 +2,7 @@
 title = "About Me"
 image = "images/500/amy-profile-500.jpg"
 thumb = "images/250/amy-profile-250.jpg"
-description = "This is a sentence about Amy Valera that she needs to write."
+description = "Welcome to my craft collection!"
 buttontext = "Contact Me"
 url = "mailto:amyvalera@gmail.com"
 
@@ -11,7 +11,7 @@ title = "Sophie's Universe Afghan Detail"
 image = "images/500/sophiedetail_500.jpg"
 thumb = "images/250/sophiedetail_250.jpg"
 description = "Detail of flower from Sophie's Universe crochet along."
-buttontext = "Pattern"
+buttontext = "Pattern!"
 url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
@@ -19,23 +19,178 @@ title = "Sophie's Universe WIP"
 image = "images/500/sophies_500px.jpg"
 thumb = "images/250/sophies_250px.jpg"
 description = "Sophie's Universe afghan work in progress. Completed to part 14/20."
-buttontext = "Pattern"
+buttontext = "Pattern!"
 url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
-title = "Craft Project 3"
-image = "images/full/3.png"
-thumb = "images/thumbs/3.png"
-description = "Description of craft project."
+title = "The Virus Shawl"
+image = "images/500/virusshawl_500.jpg"
+thumb = "images/250/virusshawl_250px.jpg"
+description = "The Virus shawl pattern is simple, works up quickly and uses only Caron Cake ball. I've made several as last-minute gifts!"
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/virus-shawl---virustuch"
 
 [[items]]
-title = "Craft Project 4"
-image = "images/full/4.png"
-thumb = "images/thumbs/4.png"
-description = "Description of craft project."
+title = "A Simple Granny Square Blanket"
+image = "images/500/pinkafghan_500px.jpg"
+thumb = "images/250/pinkafghan_250px.jpg"
+description = "A simple giant granny square made in acrylic yarn, featuring Poppy the cat."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/giant-giant-granny-square-blanket"
 
 [[items]]
-title = "Craft Project 5"
-image = "images/full/5.png"
-thumb = "images/thumbs/5.png"
-description = "Description of craft project."
+title = "Sophie/Granny Blanket"
+image = "images/500/blueafghan_500px.jpg"
+thumb = "images/250/blueafghan_250.jpg"
+description = "A blanket that combines the Sophie's Garden portion of the Sophie's Universe pattern, with a giant granny square. Jellybean the cat is included for scale."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/sophies-garden"
+
+[[items]]
+title = "The Chilly Day Cowl"
+image = "images/500/bluecowl_500px.jpg"
+thumb = "images/250/bluecowl_250px.jpg"
+description = "A thick cowl crocheted in a bulky wool blend."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/chilly-day-cowl-2"
+
+[[items]]
+title = "Calypso Shawlette"
+image = "images/500/manosshawl_500px.jpg"
+thumb = "images/250/manosshawl_250px.jpg"
+description = "A lacy shawlette featuring Manos Del Uruguay Alegria yarn."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/calypso-shawlette"
+
+[[items]]
+title = "Simple Blue Scarf"
+image = "images/500/bluescarf_500px.jpg"
+thumb = "images/250/bluescarf_250px.jpg"
+description = "Self drafted scarf to practice stitch consistency and borders."
+
+[[items]]
+title = "Divine Hats"
+image = "images/500/devinehat_500.jpg"
+thumb = "images/250/divinity_250px.jpg"
+description = "Crocheted in Knitpicks popular gradient yarn, Chroma."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/divine-hat-2"
+
+[[items]]
+title = "Another Divine Hat"
+image = "images/500/divinity2_500px.jpg"
+thumb = "images/250/divinity2_250px.jpg"
+description = "A special request from my grandmother for Christmas. Made with Knitpicks Chroma."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/divine-hat-2"
+
+[[items]]
+title = "Chevron Accessories"
+image = "images/500/chevron_500px.jpg"
+thumb = "images/250/chevron_250px.jpg"
+description = "Snowpocalypse projects crocheted in Knitpicks Chroma."
+
+[[items]]
+title = "Angora Gloves"
+image = "images/500/gloves_500px.jpg"
+thumb = "images/250/gloves_250.jpg"
+description = "After agonizing over what project was worthy of using some beautiful home spun and dyed angora wool purchased at a festival, I arrived at these cozy fingerless gloves that can be used in my chilly lab."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/shell-stitch-fingerless-gloves"
+
+[[items]]
+title = "Mr. Meeseeks Amigurumi"
+image = "images/500/meeseeks_500px.jpg"
+thumb = "images/250/meeseeks_250px.jpg"
+description = "Mr. Meeseeks hangs around in my lab to help out."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/mr-meeseeks"
+
+[[items]]
+title = "Yoda Coffee Sleeve"
+image = "images/500/yoda_500.jpg"
+thumb = "images/250/yoda_250.jpg"
+description = "A small and fun project to reduce waste from that weekend treat at 1369 Coffeehouse."
+
+[[items]]
+title = "Beardy Beanie"
+image = "images/500/beard_500.jpg"
+thumb = "images/250/beard_250.jpg"
+description = "Add a majestic beard to any hat!"
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/bobble-bearded-beanie"
+
+[[items]]
+title = "Baby Groot Amigurumi"
+image = "images/500/groot_500.jpg"
+thumb = "images/250/groot_250.jpg"
+description = "A commissioned baby Groot in a terra cotta pot. Unfortunately this is the best picture I have of it...Lesson learned about documenting projects!"
+buttontext = "Pattern"
+url = "https://www.ravelry.com/patterns/library/baby-groot-from-guardians-of-the-galaxy"
+
+[[items]]
+title = "Pikachu Embroidery"
+image = "images/500/pikachu_500.jpg"
+thumb = "images/250/pikachu_250.jpg"
+description = "Everyone's favorite Pokemon, now made of thread."
+
+[[items]]
+title = "Cat Skull"
+image = "images/500/skull_500.jpg"
+thumb = "images/250/skull_250.jpg"
+description = "Life on a graduate student's stipend doesn't leave much left over to decorate the house for the best holiday (Halloween) but you can't let that stop you from achieving peak spookiness."
+
+[[items]]
+title = "Sashiko Waves"
+image = "images/500/sashiko1_500px.jpg"
+thumb = "images/250/sashiko_250px.jpg"
+description = "A finished sashiko embroidery, not yet made into a pillow, and collecting cat fur."
+
+[[items]]
+title = "Sashiko Stars"
+image = "images/500/sashiko2_500.jpg"
+thumb = "images/250/sashiko2_250.jpg"
+description = "A sashiko embroidered pillow, from the days before I learned how to do a ladder stitch to close it up."
+
+[[items]]
+title = "Sashiko Cross"
+image = "images/500/sashiko3_500.jpg"
+thumb = "images/250/sashiko3_250.jpg"
+description = "Another sashiko pillow. Can you tell these are my favorite ways to wait out incubation periods in lab?"
+
+[[items]]
+title = "The First Tote Bag!"
+image = "images/500/tote2_500.jpg"
+thumb = "images/250/tote2_250.jpg"
+description = "My first real sewing project, a tote bag, made in the beginner sewing class at Gather Here. Thus began an obsession."
+buttontext = "Website"
+url = "https://gatherhereonline.com/"
+
+[[items]]
+title = "Another Tote Bag"
+images = "images/500/kr_500px.jpg"
+thumb = "images/250/kr_250px.jpg"
+description = "With the newfound power to make all the tote bags, I've begun to include them with every gift I give. This was for an engagement party for two friends."
+
+[[items]]
+title = "The Cleo Skirk (aka my first garment!)"
+image = "images/500/skirt_500.jpg"
+thumb = "images/250/skirt_250.jpg"
+description = "My first ever garment, the Cleo skirt! Made in a class at Gather Here using fabric with a Rifle Paper Company pattern (which I'm obsessed with). AND IT HAS POCKETS!"
+buttontext = "Pattern"
+url = "http://www.made-by-rae.com/cleo/"
+
+[[items]]
+title = "The Hadley Top"
+image = "images/500/shirt_500px.jpg"
+thumb = "images/250/shirt_500px.jpg"
+description = "My first attempt at independently making a garment: The Hadley top by Grainline Studios. It certainly taught be how to use the seam ripper, but ultimately I loved the outcome. Can't wait to fill my closet with these."
+buttontext = "Pattern"
+url = "https://grainlinestudio.com/shop/women/hadley-top-pdf-download/"
+
+[[items]]
+title = "The Terrarium"
+image ="images/500/terrarium-500.jpg"
+thumb = "images/250/terrarium_250.jpg"
+description = "A copper foil and solder terrarium made at a class taught at Artisan's Asylum. I am currently working on collecting the equipment needed to make more and to practice this skill."
+
