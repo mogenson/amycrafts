@@ -15,10 +15,12 @@ buttontext = "Pattern"
 url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
-title = "Craft Project 2"
-image = "images/full/2.png"
-thumb = "images/thumbs/2.png"
-description = "Description of craft project."
+title = "Sophie's Universe WIP"
+image = "images/500/sophies_500px.jpg"
+thumb = "images/250/sophies_250px.jpg"
+description = "Sophie's Universe afghan work in progress. Completed to part 14/20."
+buttontext = "Pattern"
+url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
 title = "Craft Project 3"
