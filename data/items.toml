@@ -1,7 +1,7 @@
 [[items]]
 title = "About Me"
-image = "images/full/amy-profile.jpg"
-thumb = "images/thumbs/amy-profile.jpg"
+image = "images/500/amy-profile-500.jpg"
+thumb = "images/250/amy-profile-250.jpg"
 description = "This is a sentence about Amy Valera that she needs to write."
 url = "mailto:amyvalera@gmail.com"
 
