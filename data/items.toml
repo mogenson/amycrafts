@@ -11,7 +11,7 @@ title = "Sophie's Universe Afghan Detail"
 image = "images/500/sophiedetail_500.jpg"
 thumb = "images/250/sophiedetail_250.jpg"
 description = "Detail of flower from Sophie's Universe crochet along."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
@@ -19,7 +19,7 @@ title = "Sophie's Universe WIP"
 image = "images/500/sophies_500px.jpg"
 thumb = "images/250/sophies_250px.jpg"
 description = "Sophie's Universe afghan work in progress. Completed to part 14/20."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/sophies-universe-cal"
 
 [[items]]
@@ -27,7 +27,7 @@ title = "The Virus Shawl"
 image = "images/500/virusshawl_500.jpg"
 thumb = "images/250/virusshawl_250px.jpg"
 description = "The Virus shawl pattern is simple, works up quickly and uses only Caron Cake ball. I've made several as last-minute gifts!"
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/virus-shawl---virustuch"
 
 [[items]]
@@ -35,7 +35,7 @@ title = "A Simple Granny Square Blanket"
 image = "images/500/pinkafghan_500px.jpg"
 thumb = "images/250/pinkafghan_250px.jpg"
 description = "A simple giant granny square made in acrylic yarn, featuring Poppy the cat."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/giant-giant-granny-square-blanket"
 
 [[items]]
@@ -43,7 +43,7 @@ title = "Sophie/Granny Blanket"
 image = "images/500/blueafghan_500px.jpg"
 thumb = "images/250/blueafghan_250.jpg"
 description = "A blanket that combines the Sophie's Garden portion of the Sophie's Universe pattern, with a giant granny square. Jellybean the cat is included for scale."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/sophies-garden"
 
 [[items]]
@@ -51,7 +51,7 @@ title = "The Chilly Day Cowl"
 image = "images/500/bluecowl_500px.jpg"
 thumb = "images/250/bluecowl_250px.jpg"
 description = "A thick cowl crocheted in a bulky wool blend."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/chilly-day-cowl-2"
 
 [[items]]
@@ -59,7 +59,7 @@ title = "Calypso Shawlette"
 image = "images/500/manosshawl_500px.jpg"
 thumb = "images/250/manosshawl_250px.jpg"
 description = "A lacy shawlette featuring Manos Del Uruguay Alegria yarn."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/calypso-shawlette"
 
 [[items]]
@@ -73,7 +73,7 @@ title = "Divine Hats"
 image = "images/500/devinehat_500.jpg"
 thumb = "images/250/divinity_250px.jpg"
 description = "Crocheted in Knitpicks popular gradient yarn, Chroma."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/divine-hat-2"
 
 [[items]]
@@ -81,7 +81,7 @@ title = "Another Divine Hat"
 image = "images/500/divinity2_500px.jpg"
 thumb = "images/250/divinity2_250px.jpg"
 description = "A special request from my grandmother for Christmas. Made with Knitpicks Chroma."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/divine-hat-2"
 
 [[items]]
@@ -95,7 +95,7 @@ title = "Angora Gloves"
 image = "images/500/gloves_500px.jpg"
 thumb = "images/250/gloves_250.jpg"
 description = "After agonizing over what project was worthy of using some beautiful home spun and dyed angora wool purchased at a festival, I arrived at these cozy fingerless gloves that can be used in my chilly lab."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/shell-stitch-fingerless-gloves"
 
 [[items]]
@@ -103,7 +103,7 @@ title = "Mr. Meeseeks Amigurumi"
 image = "images/500/meeseeks_500px.jpg"
 thumb = "images/250/meeseeks_250px.jpg"
 description = "Mr. Meeseeks hangs around in my lab to help out."
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/mr-meeseeks"
 
 [[items]]
@@ -117,7 +117,7 @@ title = "Beardy Beanie"
 image = "images/500/beard_500.jpg"
 thumb = "images/250/beard_250.jpg"
 description = "Add a majestic beard to any hat!"
-buttontext = "Pattern!"
+buttontext = "Pattern!!"
 url = "https://www.ravelry.com/patterns/library/bobble-bearded-beanie"
 
 [[items]]
@@ -125,7 +125,7 @@ title = "Baby Groot Amigurumi"
 image = "images/500/groot_500.jpg"
 thumb = "images/250/groot_250.jpg"
 description = "A commissioned baby Groot in a terra cotta pot. Unfortunately this is the best picture I have of it...Lesson learned about documenting projects!"
-buttontext = "Pattern"
+buttontext = "Pattern!"
 url = "https://www.ravelry.com/patterns/library/baby-groot-from-guardians-of-the-galaxy"
 
 [[items]]
@@ -168,24 +168,24 @@ url = "https://gatherhereonline.com/"
 
 [[items]]
 title = "Another Tote Bag"
-images = "images/500/kr_500px.jpg"
+image = "images/500/kr_500px.jpg"
 thumb = "images/250/kr_250px.jpg"
 description = "With the newfound power to make all the tote bags, I've begun to include them with every gift I give. This was for an engagement party for two friends."
 
 [[items]]
-title = "The Cleo Skirk (aka my first garment!)"
+title = "The Cleo Skirt (aka my first garment!)"
 image = "images/500/skirt_500.jpg"
 thumb = "images/250/skirt_250.jpg"
 description = "My first ever garment, the Cleo skirt! Made in a class at Gather Here using fabric with a Rifle Paper Company pattern (which I'm obsessed with). AND IT HAS POCKETS!"
-buttontext = "Pattern"
+buttontext = "Pattern!"
 url = "http://www.made-by-rae.com/cleo/"
 
 [[items]]
 title = "The Hadley Top"
 image = "images/500/shirt_500px.jpg"
-thumb = "images/250/shirt_500px.jpg"
+thumb = "images/250/shirt_250px.jpg"
 description = "My first attempt at independently making a garment: The Hadley top by Grainline Studios. It certainly taught be how to use the seam ripper, but ultimately I loved the outcome. Can't wait to fill my closet with these."
-buttontext = "Pattern"
+buttontext = "Pattern!"
 url = "https://grainlinestudio.com/shop/women/hadley-top-pdf-download/"
 
 [[items]]
