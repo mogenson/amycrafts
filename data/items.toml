@@ -194,3 +194,8 @@ image ="images/500/terrarium-500.jpg"
 thumb = "images/250/terrarium_250.jpg"
 description = "A copper foil and solder terrarium made at a class taught at Artisan's Asylum. I am currently working on collecting the equipment needed to make more and to practice this skill."
 
+[[items]]
+title = "Craft or Die"
+image ="images/500/craft_500.jpg"
+thumb = "images/250/craft_250.jpg"
+description = "An experiment with digitial design and fabrication. Drawn with a Wacom tablet and cut and etched with a laser cutter at Artisan's Asylum"
