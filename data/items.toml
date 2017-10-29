@@ -113,6 +113,14 @@ thumb = "images/250/yoda_250.jpg"
 description = "A small and fun project to reduce waste from that weekend treat at 1369 Coffeehouse."
 
 [[items]]
+title = "Penguin Amigurumi"
+image = "images/500/penguin_500.jpg"
+thumb = "images/250/penguin_250.jpg"
+description = "It's a penguin!"
+buttontext = "Pattern!"
+url = "http://www.lionbrand.com/crochet-pattern-amigurumi-penguin-2.html" 
+
+[[items]]
 title = "Beardy Beanie"
 image = "images/500/beard_500.jpg"
 thumb = "images/250/beard_250.jpg"
