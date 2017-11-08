@@ -107,6 +107,14 @@ buttontext = "Pattern!"
 url = "https://www.ravelry.com/patterns/library/mr-meeseeks"
 
 [[items]]
+title = "Calvin and Hobbes"
+image = "images/500/hobbes_500.jpg"
+thumb = "images/250/hobbes_250.jpg"
+description = "The best picture I have of a Hobbes amigurumi given as a gift to my nephew. It's doing its best to hold up to the tests a toddler has put it through!"
+buttontext = "Pattern!"
+url = "https://sukigirl74.blogspot.com/2011/03/free-hobbes-crochet-pattern.html"
+
+[[items]]
 title = "Yoda Coffee Sleeve"
 image = "images/500/yoda_500.jpg"
 thumb = "images/250/yoda_250.jpg"
@@ -135,6 +143,14 @@ thumb = "images/250/groot_250.jpg"
 description = "A commissioned baby Groot in a terra cotta pot. Unfortunately this is the best picture I have of it...Lesson learned about documenting projects!"
 buttontext = "Pattern!"
 url = "https://www.ravelry.com/patterns/library/baby-groot-from-guardians-of-the-galaxy"
+
+[[items]]
+title = "Current Work in Progress - First Knit Project"
+image = "images/500/cas_500.jpg"
+thumb = "images/250/cas_250.jpg"
+description = "My first knit project: The Cream and Sugar Cowl."
+buttontext = "Pattern!"
+url = "https://www.ravelry.com/patterns/library/cream-and-sugar-cowl"
 
 [[items]]
 title = "Pikachu Embroidery"
@@ -195,6 +211,14 @@ thumb = "images/250/shirt_250px.jpg"
 description = "My first attempt at independently making a garment: The Hadley top by Grainline Studios. It certainly taught be how to use the seam ripper, but ultimately I loved the outcome. Can't wait to fill my closet with these."
 buttontext = "Pattern!"
 url = "https://grainlinestudio.com/shop/women/hadley-top-pdf-download/"
+
+[[items]]
+title = "The Stowe Bag, version 1"
+image = "images/500/stowebag_500.jpg"
+thumb = "images/250/stowebag_250.jpg"
+description = "A small project bag from Grainline Studios using Sloth print canvas."
+buttontext = "Pattern!"
+url = "https://grainlinestudio.com/shop/accessories/stowe-bag-paper/"
 
 [[items]]
 title = "The Terrarium"
